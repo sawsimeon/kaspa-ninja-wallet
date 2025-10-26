@@ -1,4 +1,4 @@
-# Kaspa Ninja Wallet
+# saw simeon wallet
 
   A secure, decentralized Kaspa wallet running on the Internet Computer (ICP) that demonstrates the power of chain fusion technology. Send and receive Kaspa (KAS) directly through a beautiful web interface powered
   by Internet Identity authentication and ICP's threshold ECDSA.
