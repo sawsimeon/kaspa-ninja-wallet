@@ -207,6 +207,6 @@ persistent actor KaspaNinjaWallet {
 
   // Health check
   public func health() : async Text {
-    "Kaspa Ninja Wallet is running! 🥷"
+    "saw simeon wallet is running! 🥷"
   }
 }
