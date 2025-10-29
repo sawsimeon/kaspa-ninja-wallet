@@ -338,7 +338,7 @@ function App() {
           <div className="card">
             <div className="gloss-effect"></div>
             <div className="header login-header">
-              <h1>🥷 kaspa ninja wallet</h1>
+              <h1>🥷 saw simeon wallet</h1>
               <p>secure kaspa transactions on the internet computer</p>
               <button onClick={login} className="btn login-btn" disabled={loading}>
                 {loading ? <><span className="spinner"></span>connecting...</> : 'connect with internet.id'}
@@ -357,7 +357,7 @@ function App() {
         <div className="header">
           <div className="header-content">
             <div className="title-section">
-              <h1>🥷 kaspa ninja wallet</h1>
+              <h1>🥷 saw simeon wallet</h1>
               <p>send and receive kaspa directly on the internet computer</p>
             </div>
             <div className="menu-container">
